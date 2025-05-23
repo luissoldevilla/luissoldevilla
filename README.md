@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Software Developer)`**
 
+Results driven Software Engineer & Cybersecurity Professional with 6+ years of experience in full-stack development, cloud security, and cyber operations within finance, defense, and technology sectors. Proven ability to design, develop, and secure scalable applications using React.js, Node.js, Python, and MongoDB, while ensuring compliance with NIST 800-53, FedRAMP, and DoD security standards. Adept at front end optimization, API development, database management, and system security, with a strong background in threat mitigation, SIEM integration, and IDS implementation. Skilled in Agile development, DevSecOps, and CI/CD pipelines, with hands-on experience in machine learning applications for cybersecurity analytics. A collaborative leader who thrives in high pressure environments, delivering innovative solutions that enhance system performance, user experience, and security posture
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
